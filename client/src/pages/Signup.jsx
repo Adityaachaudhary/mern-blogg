@@ -69,7 +69,7 @@ export default function Signup() {
           </div>
           <div>
             <Label value='Your Email' />
-            <TextInput type='email' placeholder='Email' id='email' onchange= {handleChange} />
+            <TextInput type='email' placeholder='xyx@gmail.com' id='email' onchange= {handleChange} />
           </div>
 
           <div>
